@@ -1,11 +1,10 @@
-
 <div class="container">
-<div class="recipe-item" *ngFor="let recipe of products" routerLink="/details/{{recipe.id}}">
-  
-  <img src={{recipe.imageURL}}>
-  <h3>{{recipe.name}}</h3>
+  <div class="recipe-item" *ngFor="let recipe of products" routerLink="/detail/{{recipe.id}}">
 
-</div>
+    <img src={{recipe.imageURL}}>
+    <h3>{{recipe.name}}</h3>
+
+  </div>
 </div>
 
 
