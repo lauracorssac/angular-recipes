@@ -1,3 +1,6 @@
 # angular-g39ggn
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-g39ggn)
+Hello visitor!
+
+This is just a project for me to learn Angular. Judgements are not allowed!
+
