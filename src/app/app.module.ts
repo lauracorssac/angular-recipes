@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { RecipeComponent } from './recipe/recipe.component';
-import { RecipeDetailComponentComponent } from './recipe-detail-component/recipe-detail-component.component';
+
 import { RecipeDetailsComponent } from './recipe-details/recipe-details.component';
 
 @NgModule({
@@ -21,7 +21,6 @@ import { RecipeDetailsComponent } from './recipe-details/recipe-details.componen
     TopBarComponent,
     ProductListComponent,
     RecipeComponent,
-    RecipeDetailComponentComponent,
     RecipeDetailsComponent
   ],
   bootstrap: [AppComponent]
