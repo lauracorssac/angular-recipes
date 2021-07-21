@@ -1,14 +1,14 @@
 export const recipes = [
   {
-    id: 1,
+    id: 0,
     name: 'pacoca'
   },
   {
-    id: 2,
+    id: 1,
     name: 'brigadeiro'
   },
   {
-    id: 3,
+    id: 2,
     name: 'feijao'
   }
 ];
