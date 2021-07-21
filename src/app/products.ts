@@ -1,15 +1,21 @@
 export const recipes = [
   {
     id: 0,
-    name: 'pacoca'
+    name: 'pacoca',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=16P4KjNy4gqWEAb0DfFKMmUpZLR6ZN48i'
   },
   {
     id: 1,
-    name: 'brigadeiro'
+    name: 'brigadeiro',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=16P4KjNy4gqWEAb0DfFKMmUpZLR6ZN48i'
   },
   {
     id: 2,
-    name: 'feijao'
+    name: 'feijao',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=16P4KjNy4gqWEAb0DfFKMmUpZLR6ZN48i'
   }
 ];
 

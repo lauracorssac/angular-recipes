@@ -1,9 +1,15 @@
-<h1> hey </h1>
-<div class="recipe-item">
-  <a *ngFor="let recipe of products" routerLink="/details/{{recipe.id}}">
-    {{recipe.name}}
-  </a>
+
+<div class="container">
+<div class="recipe-item" *ngFor="let recipe of products" routerLink="/details/{{recipe.id}}">
+  
+  <img src={{recipe.imageURL}}>
+  <h3>{{recipe.name}}</h3>
+
 </div>
+</div>
+
+
+
 
 <!-- 
 Copyright Google LLC. All Rights Reserved.

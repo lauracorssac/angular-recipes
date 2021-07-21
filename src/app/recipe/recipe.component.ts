@@ -7,13 +7,6 @@ import { RecipeClass } from '../recipe-class';
   styleUrls: ['./recipe.component.css']
 })
 export class RecipeComponent implements OnInit {
-
-
-  recipe: RecipeClass = {
-    id: 0,
-    name: "pacocas"
-  };
-
   constructor() {}
 
   ngOnInit() {}
