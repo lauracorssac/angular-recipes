@@ -11,7 +11,7 @@ export class RecipeComponent implements OnInit {
 
   recipe: RecipeClass = {
     id: 0,
-    name: "pacoca"
+    name: "pacocas"
   };
 
   constructor() {}
