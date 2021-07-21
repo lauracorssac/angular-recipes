@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
@@ -10,12 +9,10 @@ import { RecipeComponent } from './recipe/recipe.component';
 
 import { RecipeDetailsComponent } from './recipe-details/recipe-details.component';
 
+import { AppRoutingModule } from './app-routing.module';
+
 @NgModule({
-  imports: [
-    BrowserModule,
-    ReactiveFormsModule,
-    RouterModule.forRoot([{ path: '', component: ProductListComponent }])
-  ],
+  imports: [BrowserModule, ReactiveFormsModule, AppRoutingModule],
   declarations: [
     AppComponent,
     TopBarComponent,
