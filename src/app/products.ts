@@ -165,6 +165,25 @@ export const recipes = [
       }
     ],
     nationalities: ['Brazil']
+  },
+  {
+    id: 9,
+    name: 'Sagu',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=12Nn6LASnrxfXXc-cNwtpa0yM7UrDrgRY',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Dieses Dessert ist typisch für Südbrasilien und besteht aus Tapioka-Bällchen (das Gleiche das in manchen Bubble-Tea benutzt wird), Rotwein 🍷und Zucker. Es ist auch üblich, Gewürze wie Zimt und Kelzen hinzuzufügen. Wegen des Alkohols im Wein, hat dieses Gericht einen nicht so Süßen Geschmack, was nicht so üblich unter den Desserts aus Brasilien ist. Deswegen essen manche Leute, insbesondere Kinder, mit einer süßeren Begleitung, wie Kondensmilch oder einer weißen Sahne.'
+      },
+      {
+        title: 'Geschichte',
+        description:
+          'Die Geschichte ist sehr interessant, weil es die kulturelle Pluralität von Brasilien zeigt. Die Maniokpflanze, aus der die Tapiokakugeln kommen, ist eine indigenes Lebensmittel. Die erste Firma in Brasilien, die die Kugeln hergestellt hat, wurde jedoch von Immigranten aus Deutschland gegründet. Die italienischen Immigranten haben auch das Gericht beeinflusst, da der Wein sehr typisch für ihre Kultur ist.'
+      }
+    ],
+    nationalities: ['Brazil']
   }
 ];
 
