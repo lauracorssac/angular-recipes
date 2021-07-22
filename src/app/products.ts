@@ -113,7 +113,7 @@ export const recipes = [
     id: 6,
     name: 'Tapioca',
     imageURL:
-      'https://drive.google.com/uc?export=view&id=1yzXM71Yy8tGKgBj9YZSRlaR4AvRAMKEc/',
+      'https://drive.google.com/uc?export=view&id=1yzXM71Yy8tGKgBj9YZSRlaR4AvRAMKEc',
     descriptions: [
       {
         title: '',
@@ -132,7 +132,7 @@ export const recipes = [
     id: 7,
     name: 'Martha Rocha',
     imageURL:
-      'https://drive.google.com/uc?export=view&id=1bfveBRc8Sbpe6hvLq-AgKrsnpmu7wyc2',
+      'https://drive.google.com/uc?export=view&id=1vc5T0Z55lWmmYZ1wAoYVLheaCTGo2n2K',
     descriptions: [
       {
         title: 'Geschichte',
