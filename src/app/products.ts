@@ -51,6 +51,66 @@ export const recipes = [
       }
     ],
     nationalities: ['Brazil, Argentina, Uruguay']
+  },
+  {
+    id: 3,
+    name: 'Açaí',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1CYodH_LCp9rQ6b_WdtyWn79gcEbGb4Fi',
+    descriptions: [
+      {
+        title: 'Geschichte',
+        description:
+          'Das Açaí ist ein Obst von einer Palme 🌴 aus dem Amazonas. Es hat viele verschiedene Nährstoffe, bietet viele Gesundheitsvorteile und ist eine naturelle Energiequelle. Aus diesem Grund wird es ursprünglich zusammen mit Hauptspeisen von den Ureinwohnern verwendet. Heutzutage ist es jedoch sehr popularisiert und wird es als Nachtisch oder Snack wie Eis gegessen.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Die Frucht ist nicht so lecker zu essen, deswegen wird es nicht so üblich verkauft. Was sehr populär ist, ist das Gericht der Frucht, das wie ein Smoothie oder ein Eis ist. Es wird aus der geschlagenen und gefrorenen Frucht zubereitet und normalerweise mit Guaraná (eine andere Frucht aus dem Amazonas) gesüßt. Es ist sehr üblich, es mit Bananen, Granola und Milchpulver zu essen. Aber da wir Brasilianer sehr kreativ mit Toppings sind, kann man sehr komische Kombinationen finden. Zum Beispiel Açaí mit heißem weißen Schokoladensirup, Kokosnuss-Chips und der Schokolade Raffaello.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 4,
+    name: 'Pinhão',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1dT0N4MPWB0nCs7aiZpQiFw9B0SbIcNtS',
+    descriptions: [
+      {
+        title: 'Geschichte',
+        description:
+          'Das Pinhão ist Pinienkerne, das ist, der Samen der Kiefer 🌲. Deshalb wird es in verschiedenen Ländern der Welt 🌍 gegessen. Das Bild zeigt ein spezifische Variante typisch von Südbrasilien, die ist der Samen des Baumes "Araucaria Angustifolia" (auf Deutsch Brasilianische Araukarie oder Brasilkiefer) ist.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Man kann die Samen ganz einfach im Supermarkt kaufen. Sie werden normalerweise im Dampfkochtopf gekocht. Wenn sie fertig sind, muss man sie zuerst schälen und dann sind sie essfertig. Im Süden sind sie als Wintersnack beliebt.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 5,
+    name: 'Pão de Queijo',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1O0_9f22pzCERmVd8sH_wTHt9gae79_EV',
+    descriptions: [
+      {
+        title: 'Geschichte',
+        description:
+          'Das Pão de Queijo ist ein kleines kugelförmiges Brot, dessen Teig elastisch ist. Seine Geschichte ist nicht klar, aber es wird vermutet, dass die Sklaven hat das zuerst gebacken haben, weil in seinem Zutaten Tapioka (oder Polvilho) gibt. Dieses Mehl war ursprünglich im 18. Jahrhundert unter der armen Leute sehr populär.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Das Pão de Queijo ist in jeder Bäckerei zu einem meistens günstigen Preis zu finden. Wer es zu Hause backen will, kann eine Packung gefrorenes Pão de Queijo im Supermarkt kaufen und es im Ofen backen. Wir essen typischerweise als Nachmittagssnack und, genau wie Brot, es kann mit verschiedenen Füllungen kombiniert werden, wie zum Beispiel Doce de Leite (ein süßer Aufstrich), Requeijão (unsere Frischkäse) oder Butter. Da der berühmteste brasilianische Bundesstaat für dieses Essen, Minas Gerais, auch sehr bekannt für guten Kaffee ist, passen Pão de Queijo und Kaffee perfekt zusammen.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    
   }
 ];
 
