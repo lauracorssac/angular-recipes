@@ -170,7 +170,7 @@ export const recipes = [
     id: 9,
     name: 'Sagu',
     imageURL:
-      'https://drive.google.com/uc?export=view&id=12Nn6LASnrxfXXc-cNwtpa0yM7UrDrgRY',
+      'https://drive.google.com/uc?export=view&id=1WsXIJPPR2lo4R3yf4AIzNRULnsymEB60',
     descriptions: [
       {
         title: '',
