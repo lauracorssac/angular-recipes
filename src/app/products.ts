@@ -6,7 +6,7 @@ export const recipes = [
       'https://drive.google.com/uc?export=view&id=16P4KjNy4gqWEAb0DfFKMmUpZLR6ZN48i',
     descriptions: [
       {
-        titlle: '',
+        title: '',
         description:
           'Das ist eine normalerweise korkförmige Süßigkeit aus Erdnüsse, Zucker und Salz. Manche Rezepte können auch Mehl aus entweder Maniok oder Mais enthalten. Das ist ein weiteres sehr leckeres Gericht, das wir von den Ureinwohnern geerbt und adaptiert haben. Deswegen hat das Dessert diesen Name, der aus dem indigenen Wort "posok" kommt, das "zerbröckeln" bedeutet. Die Süßigkeit kann sehr einfach in den Supermärkten gekauft werden und es wird üblicherweise im Juni gegessen, da wir in diesem Monat manche Festen zu Ehren des Heiligen Johannes der Täufer.'
       }
@@ -18,7 +18,7 @@ export const recipes = [
     name: 'Bolo de Milho',
     imageURL:
       'https://drive.google.com/uc?export=view&id=1wK_q7iCoLwu10GMXBc9oFqk97MUCEHYi',
-    description: [
+    descriptions: [
       {
         title: '',
         description:
@@ -33,7 +33,7 @@ export const recipes = [
     imageURL:
       'https://drive.google.com/uc?export=view&id=18FwAxB2B-ZPrAHLQHZGw2DVGwjmfCrb2',
 
-    description: [
+    descriptions: [
       {
         title: '',
         description:
