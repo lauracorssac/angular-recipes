@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { products } from '../products';
+import { recipes } from '../products';
 
 @Component({
   selector: 'app-product-list',
@@ -8,13 +8,12 @@ import { products } from '../products';
   styleUrls: ['./product-list.component.css']
 })
 export class ProductListComponent {
-  products = products;
+  products = recipes;
 
   share() {
     window.alert('The product has been shared!');
   }
 }
-
 
 /*
 Copyright Google LLC. All Rights Reserved.

@@ -1,0 +1,9 @@
+<div *ngIf="recipe">
+  <img src={{recipe.imageURL}}>
+  <h1>{{recipe.name}}</h1>
+  <div *ngFor="let desc of recipe.descriptions">
+
+    <h2>{{desc.title}}</h2>
+    <h3>{{desc.description}}</h3>
+  </div>
+</div>
