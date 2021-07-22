@@ -111,19 +111,60 @@ export const recipes = [
   },
   {
     id: 6,
-    name: "Tapioca",
-    imageURL: "",
+    name: 'Tapioca',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1yzXM71Yy8tGKgBj9YZSRlaR4AvRAMKEc/',
     descriptions: [
       {
-        title: "",
-        description: "Tapioca kann das Mehl von Maniok oder einfach das Gericht, dem das Bild zeigt, bedeuten. Es wurde ursprünglich noch bevor die Portugiesen nach Brasilien ankamen von den Ureinwohnern gegessen. Es ist populär in dem ganzen Land aber hauptsätzlich in den nördlichen und nordöstlichen Bundesstaaten."
+        title: '',
+        description:
+          'Tapioca kann das Mehl von Maniok oder einfach das Gericht, dem das Bild zeigt, bedeuten. Es wurde ursprünglich noch bevor die Portugiesen nach Brasilien ankamen von den Ureinwohnern gegessen. Es ist populär in dem ganzen Land aber hauptsätzlich in den nördlichen und nordöstlichen Bundesstaaten.'
       },
       {
-        title: "Zubereitung",
-        description: "Die Zubereitung ist sehr einfach. Das Mehl soll auf einen Pfanne gegeben werden. Es soll bis es wie eine trockene Krepe oder Pfannkuche ähnlich ist erhitzt werden. Die Füllung kann sehr unterschiedlich sein. Es kann als Dessert, Hauptspeise oder Snack gegessen werden. Es gibt auch eine Variante, die Crepioca genannt ist. Dazu sollen geschlagene Eier und das Mehl gemischt werden bevor es auf dem Pfanne legt."
+        title: 'Zubereitung',
+        description:
+          'Die Zubereitung ist sehr einfach. Das Mehl soll auf einen Pfanne gegeben werden. Es soll bis es wie eine trockene Krepe oder Pfannkuche ähnlich ist erhitzt werden. Die Füllung kann sehr unterschiedlich sein. Es kann als Dessert, Hauptspeise oder Snack gegessen werden. Es gibt auch eine Variante, die Crepioca genannt ist. Dazu sollen geschlagene Eier und das Mehl gemischt werden bevor es auf dem Pfanne legt.'
       }
     ],
-    nationalities: ["Brazil"]
+    nationalities: ['Brazil']
+  },
+  {
+    id: 7,
+    name: 'Martha Rocha',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1bfveBRc8Sbpe6hvLq-AgKrsnpmu7wyc2',
+    descriptions: [
+      {
+        title: 'Geschichte',
+        description:
+          'Die Martha Rocha ist ein Schichtkuchen, den von Dona Dair da Costa Terzado als Ehrung für die brasilianische Miss Maria Martha Hacker Rocha erfunden wurde. Das Model trat bei dem Miss Universe Wettbewerb an, verlor aber leider. Es wurde gesagt, dass der Grund, warum sie nicht geschafft hat, war, dass ihre Hüften 2 Zoll größer als die von der Gewinnerin waren. Deshalb hat die Torte eine schicht aus Baiser, die 2 Inch groß ist. Diese Geschichte ist aber falsch.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Das Schichtkuchen hat viele verschiedene Geschmäckern unter seinen Schichten. Es gibt Biskuitkuchen weiß und aus Schokolade, Nüssen und Aprikose- oder Pflaumenmarmelade. Der Tortenbelag wird aus chantilly und Engelshaar (Fios de Ovos) hergestellt. Es kann einfach in jeder Bäckerei gefunden werden.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 8,
+    name: 'Pé de Moleque',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1KayeVzXuD8merJ5oXFKb9_JGagZ-_nrg',
+    descriptions: [
+      {
+        title: 'Geschichte',
+        description:
+          'Die Pé-de-Moleque ist eine Süßigkeit, deren Zutaten im Prinzip Erdnuss und Rohrzucker sind. Es hat seine Herkunft im 16. Jahrhundert, während einer sehr wichtigen Periode für die brasilianische Wirtschaft. In diesen Jahren hat Brasilien viel Zuckerrohr kultiviert, was die Erfindung nicht nur vieler Süßigkeiten, sondern auch des berühmtes Getränks "Cachaça" ermöglicht hat.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Um diese Süßigkeit zuzubereiten, muss man zuerst eine Menge Erdnüsse ohne Salz oder Schale rösten. Dann muss der Rohrzucker in einen Topf gegeben und erhitzt werden. Dann müssen die Erdnüsse damit gemischt werden. Zum Schluss legt man kleine Portionen des Teigs mit einem Löffel auf den Tisch und wartet, bis es abkühlt.'
+      }
+    ],
+    nationalities: ['Brazil']
   }
 ];
 
