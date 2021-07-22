@@ -110,7 +110,20 @@ export const recipes = [
     nationalities: ['Brazil']
   },
   {
-    
+    id: 6,
+    name: "Tapioca",
+    imageURL: "",
+    descriptions: [
+      {
+        title: "",
+        description: "Tapioca kann das Mehl von Maniok oder einfach das Gericht, dem das Bild zeigt, bedeuten. Es wurde ursprünglich noch bevor die Portugiesen nach Brasilien ankamen von den Ureinwohnern gegessen. Es ist populär in dem ganzen Land aber hauptsätzlich in den nördlichen und nordöstlichen Bundesstaaten."
+      },
+      {
+        title: "Zubereitung",
+        description: "Die Zubereitung ist sehr einfach. Das Mehl soll auf einen Pfanne gegeben werden. Es soll bis es wie eine trockene Krepe oder Pfannkuche ähnlich ist erhitzt werden. Die Füllung kann sehr unterschiedlich sein. Es kann als Dessert, Hauptspeise oder Snack gegessen werden. Es gibt auch eine Variante, die Crepioca genannt ist. Dazu sollen geschlagene Eier und das Mehl gemischt werden bevor es auf dem Pfanne legt."
+      }
+    ],
+    nationalities: ["Brazil"]
   }
 ];
 
