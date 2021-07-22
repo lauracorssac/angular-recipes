@@ -16,7 +16,8 @@ img {
   margin: auto; /* gallery centered*/
   display: flex; /*figures align in a row */
   flex-wrap: wrap; /* figures wrap up and move items to next row when the row is full*/
-  justify-content: space-between; /*same space btw elems*/
+  justify-content: space-around; /*same space btw elems*/
+  margin-top: 55px;
 }
 
 h3 {
