@@ -1,7 +1,13 @@
 <div *ngIf="recipe">
-  <div class="shownPhoto" *ngFor="let imageURL of recipe.imagesURL">
-    <img src={{imageURL}}>
+
+  <div class="photoContainer">
+    <div class="photoShown" *ngFor="let imageURL of recipe.imagesURL">
+      <img src={{imageURL}}>
+    </div>
+    <a class="prev" id="prevButton">&#10094;</a>
+    <a class="next" id="nextButton">&#10095;</a>
   </div>
+
   <h1>{{recipe.name}}</h1>
   <div *ngFor="let desc of recipe.descriptions">
     <h2>{{desc.title}}</h2>
