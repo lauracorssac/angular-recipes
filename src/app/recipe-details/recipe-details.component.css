@@ -5,8 +5,18 @@ img {
   max-width: 90%;
   margin: auto;
   display: block;
+  max-height: 90vh;
+  margin-top: 5%;
 }
-p {
+
+h3 {
+  text-align: justify;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-weight: normal;
+}
+
+h2 {
+  color: black;
   text-align: center;
-  margin: 5%;
 }
