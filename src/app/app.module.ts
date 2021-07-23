@@ -10,6 +10,7 @@ import { RecipeComponent } from './recipe/recipe.component';
 import { RecipeDetailsComponent } from './recipe-details/recipe-details.component';
 
 import { AppRoutingModule } from './app-routing.module';
+import { NgbdCarouselConfigModule } from './app/carousel/carousel-basic.module';
 
 @NgModule({
   imports: [BrowserModule, ReactiveFormsModule, AppRoutingModule],
@@ -18,7 +19,8 @@ import { AppRoutingModule } from './app-routing.module';
     TopBarComponent,
     ProductListComponent,
     RecipeComponent,
-    RecipeDetailsComponent
+    RecipeDetailsComponent,
+    NgbdCarouselConfigModule
   ],
   bootstrap: [AppComponent]
 })

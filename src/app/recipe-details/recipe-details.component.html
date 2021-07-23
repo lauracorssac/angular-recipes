@@ -1,12 +1,6 @@
 <div *ngIf="recipe">
 
-  <div class="photoContainer">
-    <div class="photoShown" *ngFor="let imageURL of recipe.imagesURL">
-      <img src={{imageURL}}>
-    </div>
-    <a class="prev" id="prevButton">&#10094;</a>
-    <a class="next" id="nextButton">&#10095;</a>
-  </div>
+  <ngbd-carousel-config></ngbd-carousel-config>
 
   <h1>{{recipe.name}}</h1>
   <div *ngFor="let desc of recipe.descriptions">
