@@ -1,7 +1,7 @@
 export interface RecipeClass {
   id: number;
   name: string;
-  imageURL: string;
+  imagesURL: string[];
   descriptions: RecipeDescription[];
   nationalities: string[];
 }

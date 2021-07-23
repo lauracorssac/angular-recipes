@@ -1,7 +1,8 @@
 <div class="container">
   <div class="recipe-item" *ngFor="let recipe of products" routerLink="/detail/{{recipe.id}}">
 
-    <img src={{recipe.imageURL}}>
+
+    <img src={{recipe.imagesURL[0]}}>
     <h3>{{recipe.name}}</h3>
 
   </div>

@@ -2,8 +2,9 @@ export const recipes = [
   {
     id: 0,
     name: 'Paçoca',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=16P4KjNy4gqWEAb0DfFKMmUpZLR6ZN48i',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=16P4KjNy4gqWEAb0DfFKMmUpZLR6ZN48i'
+    ],
     descriptions: [
       {
         title: '',
@@ -16,8 +17,9 @@ export const recipes = [
   {
     id: 1,
     name: 'Bolo de Milho',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1wK_q7iCoLwu10GMXBc9oFqk97MUCEHYi',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1wK_q7iCoLwu10GMXBc9oFqk97MUCEHYi'
+    ],
     descriptions: [
       {
         title: '',
@@ -30,8 +32,9 @@ export const recipes = [
   {
     id: 2,
     name: 'Churrasco',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=18FwAxB2B-ZPrAHLQHZGw2DVGwjmfCrb2',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=18FwAxB2B-ZPrAHLQHZGw2DVGwjmfCrb2'
+    ],
 
     descriptions: [
       {
@@ -55,8 +58,9 @@ export const recipes = [
   {
     id: 3,
     name: 'Açaí',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1CYodH_LCp9rQ6b_WdtyWn79gcEbGb4Fi',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1CYodH_LCp9rQ6b_WdtyWn79gcEbGb4Fi'
+    ],
     descriptions: [
       {
         title: 'Geschichte',
@@ -74,8 +78,9 @@ export const recipes = [
   {
     id: 4,
     name: 'Pinhão',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1dT0N4MPWB0nCs7aiZpQiFw9B0SbIcNtS',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1dT0N4MPWB0nCs7aiZpQiFw9B0SbIcNtS'
+    ],
     descriptions: [
       {
         title: 'Geschichte',
@@ -93,8 +98,10 @@ export const recipes = [
   {
     id: 5,
     name: 'Pão de Queijo',
-    imageURL:
+    imagesURL: [
       'https://drive.google.com/uc?export=view&id=1O0_9f22pzCERmVd8sH_wTHt9gae79_EV',
+      'https://drive.google.com/uc?export=view&id=16BRAsjS4P1-YN7hRnQb_j6yiIxfJzPLF'
+    ],
     descriptions: [
       {
         title: 'Geschichte',
@@ -112,8 +119,9 @@ export const recipes = [
   {
     id: 6,
     name: 'Tapioca',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1yzXM71Yy8tGKgBj9YZSRlaR4AvRAMKEc',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1yzXM71Yy8tGKgBj9YZSRlaR4AvRAMKEc'
+    ],
     descriptions: [
       {
         title: '',
@@ -131,8 +139,9 @@ export const recipes = [
   {
     id: 7,
     name: 'Martha Rocha',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1vc5T0Z55lWmmYZ1wAoYVLheaCTGo2n2K',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1vc5T0Z55lWmmYZ1wAoYVLheaCTGo2n2K'
+    ],
     descriptions: [
       {
         title: 'Geschichte',
@@ -150,8 +159,9 @@ export const recipes = [
   {
     id: 8,
     name: 'Pé de Moleque',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1KayeVzXuD8merJ5oXFKb9_JGagZ-_nrg',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1KayeVzXuD8merJ5oXFKb9_JGagZ-_nrg'
+    ],
     descriptions: [
       {
         title: 'Geschichte',
@@ -169,8 +179,9 @@ export const recipes = [
   {
     id: 9,
     name: 'Sagu',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1WsXIJPPR2lo4R3yf4AIzNRULnsymEB60',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1WsXIJPPR2lo4R3yf4AIzNRULnsymEB60'
+    ],
     descriptions: [
       {
         title: '',
@@ -188,8 +199,9 @@ export const recipes = [
   {
     id: 10,
     name: 'Chimarrão',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1NunJYMzr-ZmmTH0RrH7N-Nczft2usncL',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1NunJYMzr-ZmmTH0RrH7N-Nczft2usncL'
+    ],
     descriptions: [
       {
         title: '',
@@ -212,8 +224,9 @@ export const recipes = [
   {
     id: 11,
     name: 'Pizza de Sardinha',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1J4HiV6vA0nKu3jZ4MWfOdSlHyxuwRSwO',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1J4HiV6vA0nKu3jZ4MWfOdSlHyxuwRSwO'
+    ],
     descriptions: [
       {
         title: '',
@@ -236,8 +249,9 @@ export const recipes = [
   {
     id: 12,
     name: 'Rosca de Polvilho',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1JYpFYWhCTDzdeOd2ArEsvpDJsKGXicCj',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1JYpFYWhCTDzdeOd2ArEsvpDJsKGXicCj'
+    ],
     descriptions: [
       {
         title: '',
@@ -250,8 +264,9 @@ export const recipes = [
   {
     id: 13,
     name: 'À la Minuta',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1CepKS_3TGpXSOKAEUD4K8-50JyDNmlxV',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1CepKS_3TGpXSOKAEUD4K8-50JyDNmlxV'
+    ],
     descriptions: [
       {
         title: '',
@@ -264,8 +279,9 @@ export const recipes = [
   {
     id: 14,
     name: 'Brigadeiro',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=1wuODBFBgYbaJ8cgHt8mvYHgPDpNnrXdR',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1wuODBFBgYbaJ8cgHt8mvYHgPDpNnrXdR'
+    ],
     descriptions: [
       {
         title: '',
@@ -288,8 +304,9 @@ export const recipes = [
   {
     id: 15,
     name: 'Macron',
-    imageURL:
-      'https://drive.google.com/uc?export=view&id=16ZGFGh4RyUmce7-126dTvRYRQVK2m9rZ',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=16ZGFGh4RyUmce7-126dTvRYRQVK2m9rZ'
+    ],
     descriptions: [
       {
         title: '',
