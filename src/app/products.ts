@@ -184,6 +184,120 @@ export const recipes = [
       }
     ],
     nationalities: ['Brazil']
+  },
+  {
+    id: 10,
+    name: 'Chimarrão',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1NunJYMzr-ZmmTH0RrH7N-Nczft2usncL',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Sehr beliebt in Treffen mit Freunden, am Arbeitsplatz und auch im Alltag vieler Menschen in Südbrasilien, ist dieses Getränk ein großes Kulturgut, das wir von den Ureinwohnern geerbt haben.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Es ist wie ein Tee, aber es hat eine unterschiedliche Zubereitung. Zuerst braucht man eine Form aus Holz namens "Cuia". Darin geben wir das grüne Kraut namens Erva Mate (lat. Ilex paraguariensis). Wir müssen ein Loch neben dem Kraut machen, um heißes Wasser zu geben. Dann braucht man das "Bomba", das wie ein Stroh aus Metall ist und sollt ins Wasser gesenkt werden, damit es trinkfertig ist.'
+      },
+      {
+        title: 'Kuriositäten',
+        description:
+          'Es gibt viele soziale "Regeln" bei diesem Getränk. Zum Beispiel, dass es höflich ist, trinken bis zum Ende, sodass es ein Geräusch macht. Aber heutzutage sind manche von diesen Glauben nicht so wichtig oder werden nicht mehr geglaubt.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 11,
+    name: 'Pizza de Sardinha',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1J4HiV6vA0nKu3jZ4MWfOdSlHyxuwRSwO',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Sehr beliebt bei Geburtstagspartys 🥳, diese Art von Pizza 🍕 scheint mehr wie ein Kuchen als eine Pizza zu sein.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Um den Teig vorzubereiten, braucht man normalerweise einen Mixer, in den man die typischen Zutaten eines Kuchens gibt, wie Mehl, Backpulver, Zucker, Eier, Salz, Öl und Milch. Die Soße wird in einem Topf gemacht. Normalerweise wird es aus Sardine, Tomatensoße, Salz, Pfeffer, Zwiebeln und Paprika besteht aber die Gewürze hängen natürlich von dem Geschmack des Bäcker oder der Bäckerin ab. Wenn die beiden Teile fertig sind, kann der Teig auf eine Forme gelegt werden und das Soße darüber. Dann kann es in den Ofen gestellt und für 20 Minute erhitzt werden.'
+      },
+      {
+        title: 'Guten Appetit!',
+        description:
+          'Es ist üblich, das nicht nur gerade aus dem Ofen zu essen, sondern auch, wenn es kühl ist. Es lohnt sich, beide Versionen zu probieren! Oliven und gerieben Parmigiano/Grano passen sehr gut zu dem Gericht und deshalb werden sie auch offen darüber gegeben.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 12,
+    name: 'Rosca de Polvilho',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1JYpFYWhCTDzdeOd2ArEsvpDJsKGXicCj',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Es ist nicht nur bei Leute die keine Gluten essen können beliebt, sondern auch von allen, die einen guten Ersatz mit weniger Kalorien für Brot mögen. Wie das Pão de Queijo (Käsebrot), wird es aus Polvilho Mehl zubereitet, das ist, ein Mehl, das aus den Wurzeln der Maniok hergestellt wird. Der Teig ist ebenfalls sehr ähnlich wie der des Pão de Queijo; er ist ebenfalls sehr elastisch, aber es aber es enthält keinen Käse. Es wird normalerweise in dieser Form wie ein Donut in verschiedenen Bäckereien, Supermärkten oder Cafeterias verkauft.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 13,
+    name: 'À la Minuta',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1CepKS_3TGpXSOKAEUD4K8-50JyDNmlxV',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Das A la minuta ist ein sehr populäres Gericht. Es besteht aus einer Scheibe Fleisch (meist Rindfleisch, aber es kann auch Hähnchen oder ein vegetarischer Ersatz sein), Reis, Bohnen, einem Spiegelei, Salat und Pommes. Aber natürlich kann man die Zutaten verändern. Zum Beispiel zeigt das Bild eine Version mit gebackenen anstatt frittierten Pommes und ohne Bohnen und Salat. Der Name, "À la Minuta", kommt aus dem Französischen und bedeutet etwas, dass schnell gefertigt ist. Deshalb ist sehr üblich, das in kleineren Restaurants in der Mittagspause zu bestellen. In den aktuellen Corona-Zeiten wird es in Lieferservice Apps sehr angeboten.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 14,
+    name: 'Brigadeiro',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=1wuODBFBgYbaJ8cgHt8mvYHgPDpNnrXdR',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Das Brigadeiro ist beliebteste Süßigkeit auf Kinderpartys. Es besteht aus einer Mischung aus Schokoladenpulver, Kondensmilch und Butter. Er ist normalerweise kugelförmig und wird mit Schokostreuseln serviert, aber es gibt viele andere Varianten, z. B. "Beijinho", die Kokosnüsse anstatt des Schokopulvers enthält. Auf dem Belag der Torte auf dem Bild sind das Original und eine Version mit nur Kondensmilch und Butter zu sehen.'
+      },
+      {
+        title: 'Geschichte',
+        description:
+          'Brigadeiro heißt auf Portugiesisch Brigadier, was ein militärischer Posten ist. Die Süßigkeit wurde erstmals hergestellt, um die Kandidatur eines Brigadiers zu unterstützen. Im Südbrasilien hat es einen anderen Namen, "Negrinho", das heißt "kleiner Schwarzer". Der Grund dafür ist, dass sich dort die Heimatstadt eines sehr berühmten Politikers befindet, der zu Gegenparteien gehörte und die Kandidatur des Brigadiers nicht unterstützte.'
+      },
+      {
+        title: 'Zubereitung',
+        description:
+          'Das Originalrezept mit Schokopulver ist normalerweise zu süß für den Geschmack von Leuten, die keine Brasilianer sind. Deswegen stellen wir stattdessen ein mit Kakaopulver vor. Man braucht eine Dose Kondensmilch, zwei Löffel Kakaopulver und einen Löffel Butter. Alles soll in einen Topf gegeben und bei mittlerer oder niedriger Hitze gerührt werden. Knapp 20 Minuten später, wenn der Topfboden zu sehen ist, ist es fertig. Manche Leute essen ihn so, wie es ist, aber wer die Kugeln machen will, soll ein bisschen warten, bis es abkühlt, um das zu tun. Es kann in den Kühlschrank gegeben werden, um das Abkühlen zu beschleunigen.'
+      }
+    ],
+    nationalities: ['Brazil']
+  },
+  {
+    id: 15,
+    name: 'Macron',
+    imageURL:
+      'https://drive.google.com/uc?export=view&id=16ZGFGh4RyUmce7-126dTvRYRQVK2m9rZ',
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Dies ist eine Torte namens "Macron", die aus gerösteter Kokosnuss, Pflaumen- oder Aprikosenmarmelade und einer Süße aus Eiern besteht. Eine richtige Geschichte wurde leider nicht gefunden, aber wir glauben, dass es typisch für Südbrasilien ist. Das Bild zeigt ein Rezept mit einem Belag aus Sahnecreme und Engelshaar (Fios de Ovos). Die Dekoration wiederum wurde aus Trockenpflaumen und Kirchen gemacht.'
+      }
+    ],
+    nationalities: ['Brazil']
   }
 ];
 
