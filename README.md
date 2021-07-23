@@ -4,6 +4,8 @@ Hello visitor!
 
 I made this project to learn some basic principles of Web Development in Angular and also practice my writing in German! 
 
+Chek the website deployed on Firebase: https://buch-des-essens.firebaseapp.com
+
 Judgments are not allowed but feel free to make suggestions and open pull requests!
 
 I developed using `Stackblitz` and deployed on `Firebase`! Totally recommend! (At least until now I don't regret it!)
