@@ -1,6 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { ReactiveFormsModule } from '@angular/forms';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbdCarouselConfig } from './carousel/carousel-config';
 
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
@@ -13,17 +15,19 @@ import { AppRoutingModule } from './app-routing.module';
 import { NgbdCarouselConfigModule } from './carousel/carousel-basic.module';
 
 @NgModule({
-  imports: [BrowserModule, ReactiveFormsModule, AppRoutingModule],
+  imports: [BrowserModule, ReactiveFormsModule, AppRoutingModule, NgbModule],
   declarations: [
     AppComponent,
     TopBarComponent,
     ProductListComponent,
     RecipeComponent,
-    RecipeDetailsComponent
+    RecipeDetailsComponent,
+    NgbdCarouselConfig
   ],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, NgbdCarouselConfig]
 })
 export class AppModule {}
+//exports: [NgbdCarouselConfig],
 
 /*
 Copyright Google LLC. All Rights Reserved.
