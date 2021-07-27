@@ -1,9 +1,8 @@
 <div class="top-padding"></div>
 <div *ngIf="recipe">
   <div class="container-fluid">
-    <ngb-carousel *ngIf="images" [showNavigationArrows]="showNavigationArrows"
-      [showNavigationIndicators]="showNavigationIndicators">
-      <ng-template class="imageSlider" ngbSlide *ngFor="let image of images">
+    <ngb-carousel [showNavigationArrows]="showNavigationArrows" [showNavigationIndicators]="showNavigationIndicators">
+      <ng-template class="imageSlider" ngbSlide *ngFor="let image of recipe.imagesURL">
         <div class="picsum-img-wrapper">
           <img [src]="image" alt="Random slide">
         </div>

@@ -11,16 +11,11 @@ import { NgbCarouselConfig } from '@ng-bootstrap/ng-bootstrap';
   providers: [NgbCarouselConfig]
 })
 export class RecipeDetailsComponent implements OnInit {
-  
   recipe: RecipeClass | undefined;
   showNavigationArrows = true;
   showNavigationIndicators = true;
-  images = [1, 2, 3, 4].map(
-    () => `https://picsum.photos/900/500?random&t=${Math.random()}`
-  );
 
-  constructor(config: NgbCarouselConfig,
-    private route: ActivatedRoute) {
+  constructor(config: NgbCarouselConfig, private route: ActivatedRoute) {
     // customize default values of carousels used by this component tree
     config.interval = 0;
     config.wrap = false;
