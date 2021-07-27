@@ -46,3 +46,7 @@ h2 {
 .photoShown {
   display: none;
 }
+.top-padding {
+  height: 100px;
+  width: 100%;
+}
