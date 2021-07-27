@@ -14,7 +14,7 @@ This project is under development and I am still exploring how to make it better
 
 My current To-Do list is:
 
-- Fix some design principes;
+- Make design better;
 - Add some tags to the recipes and a search by filter! E.g.: sweet, savory, ...;
 - Search about accessibility in webpages and implement recommendations found;
 - Seach about testing and do it;
