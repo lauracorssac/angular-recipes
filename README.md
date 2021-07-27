@@ -14,7 +14,7 @@ This project is under development and I am still exploring how to make it better
 
 My current To-Do list is:
 
-- Add more photos to a recipe's details;
-- Add recipes from other countries as well and do filter buttons to show only those of a selected nationality!
+- Fix some design principes;
+- Add some tags to the recipes and a search by filter! E.g.: sweet, savory, ...;
 - Search about accessibility in webpages and implement recommendations found;
 - Seach about testing and do it;
