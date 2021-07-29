@@ -327,7 +327,7 @@ export const recipes = [
       {
         title: '',
         description:
-          'Es ist wie ein Hamburger, aber ein bisschen anders. Es gibt kleinen Einzelheiten, die dieses Gericht zu einem Symbol für Südbrasilien machen. Zuerst ist das Brot größer als das eines Burgers. Es hat einen Durchmesser von etwa 20 Zentimetern und ist gepresst.  Wie bei manchen brasilianischen Gerichten gibt es viele Variante, aber die typischste ist "Xis Salada", auf Deutsch "Xis Salat". Es besteht normalerweise aus einem Stück Fleisch, einem Spiegelei, Mayo, Mais, Erbsen, und Kopfsalat. Aber auch Varianten wie Hühnerherz, Bacon, Vier Käse mit Fleisch, Hähnchen mit Frischkäse sind sehr beliebt und die vegetarische sind immer mehr populär.'
+          'Es ist wie ein Hamburger, aber ein bisschen anders. Es gibt kleinen Einzelheiten, die dieses Gericht zu einem Symbol für Südbrasilien machen. Zuerst ist das Brot größer als das eines Burgers. Es hat einen Durchmesser von etwa 20 Zentimetern und ist gepresst.  Wie bei manchen brasilianischen Gerichten gibt es viele Variante, aber die typischste ist "Xis Salada", auf Deutsch "Xis Salat". Es besteht normalerweise aus einem Stück Fleisch, einem Spiegelei, Käse, Mayo, Mais, Erbsen, und Kopfsalat. Aber auch Varianten wie Hühnerherz, Bacon, Vier Käse mit Fleisch, Hähnchen mit Frischkäse sind sehr beliebt und die vegetarische sind immer mehr populär.'
       },
       {
         title: 'Wo zu finden',
