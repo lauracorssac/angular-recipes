@@ -315,6 +315,27 @@ export const recipes = [
       }
     ],
     nationalities: ['Brazil']
+  },
+  {
+    id: 16,
+    name: 'Xis',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1C8nUKRTX-3-Ox_hycZyMNghqWiXm8u7P',
+      'https://drive.google.com/uc?export=view&id=1haLP8eNDYc08gs4IWYx_TQwamx9_aoG4'
+    ],
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Es ist wie ein Hamburger, aber ein bisschen anders. Es gibt kleinen Einzelheiten, die dieses Gericht zu einem Symbol für Südbrasilien machen. Zuerst ist das Brot größer als das eines Burgers. Es hat einen Durchmesser von etwa 20 Zentimetern und ist gepresst.  Wie bei manchen brasilianischen Gerichten gibt es viele Variante, aber die typischste ist "Xis Salada", auf Deutsch "Xis Salat". Es besteht normalerweise aus einem Stück Fleisch, einem Spiegelei, Mayo, Mais, Erbsen, und Kopfsalat. Aber auch Varianten wie Hühnerherz, Bacon, Vier Käse mit Fleisch, Hähnchen mit Frischkäse sind sehr beliebt und die vegetarische sind immer mehr populär.'
+      },
+      {
+        title: 'Wo zu finden',
+        description:
+          'Es kann sehr einfach in vielen Imbissstuben in Rio Grande do Sul (Südbrasilien) gefunden werden und ist meistens günstig. Deswegen ist es nicht so typisch, ihn selbst zuzubereiten.'
+      }
+    ],
+    nationalities: ['Brazil']
   }
 ];
 
