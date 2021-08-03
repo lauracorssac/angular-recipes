@@ -336,6 +336,29 @@ export const recipes = [
       }
     ],
     nationalities: ['Brazil']
+  },
+  {
+    id: 17,
+    name: 'Pastel',
+    imagesURL: [
+      ''
+    ],
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Es handelt sich im Grunde um einen frittierten Teig mit Füllung. Er kann eine halbkreisförmige oder quadratische Form haben und ist in verschiedenen Größen erhältlich. Die üblichste Art von Pastel ist Hackfleisch mit Eiern und Oliven, aber es gibt viele andere, wie mit Käse und auch süße Varianten wie Schokolade. Es gibt auch eine ohne Füllung, die "Pastel de Vento", oder "Wind Pastel" gennant wird und als Snack gegessen ist.'
+      },
+      {
+        title: "Geschichte",
+        description: "Die genaue Geschichte ist nicht bekannt, aber eine Theorie ist, dass ihn von japanischen Immigranten in Brasilien hergestellt wurde. Laut dieser Theorie, dass diese Menschen während des Zweiten Weltkriegs nach Brasilien flüchteten und kleine Restaurants gründeten."
+      }, 
+      {
+        title: "Wo zu finden?",
+        description: "Es kann in vielen Imbissstuben und auf Messen gekauft werden, oder man kann auch einen Teig, der normalerweise kreisförmig ist, in Supermarkten kaufen und selbt füllen und frittieren."
+      }
+    ],
+    nationalities: ['Brazil']
   }
 ];
 
