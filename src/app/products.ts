@@ -361,6 +361,28 @@ export const recipes = [
       }
     ],
     nationalities: ['Brazil']
+  },
+  {
+    id: 18,
+    name: 'Bolo de Rolo',
+    imagesURL: [
+      'https://drive.google.com/uc?export=view&id=1VFxxAJyU0bpIwOcBQzQlUAcHJoES2bXd',
+      'https://drive.google.com/uc?export=view&id=1kaez7LGvyBGSLfYj8pDpFJYmBCneiWS4',
+      'https://drive.google.com/uc?export=view&id=1G3kvgrBuu04MTPCXqFehOXjhllz-dbb_'
+    ],
+    descriptions: [
+      {
+        title: '',
+        description:
+          'Das ist ein Kuchen, der der Biskuitrolle ähnelt. Es besteht jedoch aus einem sehr dünneren Teig und die Füllung kommt ursprünglich aus dem "Goiabada", das eine Süße aus der Guavefrucht ist. Heutzutage gibt es viele andere Varianten, wie mit Schokolade, die das zweite Bild zeigt. 2008 wurde der Kuchen als immaterielles Kulturgut von Pernambuco anerkannt, eine nordöstliche Stadt von Brasilien wo den Kuchen entstanden wurde.'
+      },
+      {
+        title: '',
+        description:
+          ' Der originale Teig besteht aus den üblichen Kuchenzutaten: Zucker, Mehl, Eier und Butter. Es wird kein Backpulver benutzt, um das Teig dünn zu halten. Aus diesem Grund muss der Teig, der Schicht für Schicht gebacken wird, nicht so lange im Ofen bleiben, sondern nur etwa 5 Minuten. Wenn jede Schicht gebacken ist, muss die Füllung darauf gestrichen und dann den Teig ausgerollt werden.'
+      }
+    ],
+    nationalities: ['Brazil']
   }
 ];
 
